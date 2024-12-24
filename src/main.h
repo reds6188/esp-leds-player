@@ -4,6 +4,9 @@
 #include <Arduino.h>
 #include <console.h>
 #include <timer.h>
+#include <led.h>
+#include <button.h>
+#include "def.h"
 
 #define MAIN_T	"MAIN"
 
