@@ -6,6 +6,7 @@
 #include <timer.h>
 #include <led.h>
 #include <button.h>
+#include <wi-fi.h>
 #include "def.h"
 
 #define MAIN_T	"MAIN"
