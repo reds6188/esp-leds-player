@@ -2,5 +2,9 @@
 #define MAIN_H_
 
 #include <Arduino.h>
+#include <console.h>
+#include <timer.h>
+
+#define MAIN_T	"MAIN"
 
 #endif  /* MAIN_H_ */
